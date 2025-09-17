@@ -4,7 +4,7 @@ public class vowels {
 
 	
 	public static void main(String[] args) {
-		String str="vamshi";
+		String str="nikil";
 		if (str.matches(".*[aeiou].*")) {
 		    System.out.println("good work");
 		}
